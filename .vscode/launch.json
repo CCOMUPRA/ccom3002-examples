@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/bryan.hernandez5/Documents/Code/ccom3002-git/mod4_classes",
+      "program": "/Users/bryan.hernandez5/Documents/Code/ccom3002-git/mod4_classes/build/Debug/outDebug"
+    }
+  ]
+}

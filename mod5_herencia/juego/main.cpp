@@ -32,4 +32,4 @@ int main()
 	enemy.attack(player);
 
 	return 0;
-}
+} //juan
